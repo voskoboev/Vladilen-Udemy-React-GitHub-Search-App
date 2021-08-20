@@ -1,5 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
 
-// body {
-//   background-color: green;
-// }
+.badge {
+  background-color: yellowgreen;
+} 
+
+.badge:not(:last-child) {
+  margin-right: 20px;
+}
