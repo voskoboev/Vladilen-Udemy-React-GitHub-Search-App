@@ -36,7 +36,6 @@ const Profile = ({ match }) => {
       <Link to="/" className="btn btn-link">
         To Home
       </Link>
-
       <div className="card mb-4">
         <div className="card-body">
           <div className="row">

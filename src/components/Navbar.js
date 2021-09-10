@@ -5,7 +5,7 @@ const Navbar = () => (
   <nav className="navbar navbar-dark bg-primary navbar-expand-lg">
     <div className="container">
       <div className="navbar-brand">
-        GitHub Search
+        GitHub Accounts Search App
       </div>
       <ul className="navbar-nav">
         <li className="nav-item">
