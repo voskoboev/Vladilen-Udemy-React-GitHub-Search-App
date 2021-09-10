@@ -13,7 +13,10 @@ const Home = () => {
         {loading
           ? <p className="text-center">Loading...</p>
           : users.map(user => (
-            <div className="col-sm-4 mb-4" key={user.id}>
+            <div
+              key={user.id}
+              className="col-sm-4 mb-4"
+            >
               <Card user={user} />
             </div>
           ))
