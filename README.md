@@ -2,12 +2,9 @@
 
 ### Summary:
 
-- React (Hooks), React Router, Axios, Bootstrap;
+- The app provides search for GitHub accounts and their detailed information;
+- React (Hooks), Redux, React Router, Axios, Bootstrap;
 - [Hosted Site](https://vladilen-react-hooks.herokuapp.com/).
-
-### Get started
-
-'yarn start'
 
 ### Functionality
 
@@ -17,4 +14,4 @@
 
 ### Sources:
 
-[Course link](https://www.udemy.com/course/react-2020-complete-guide/?__cf_chl_captcha_tk__=pmd_Rl3wruHkwmgDkarc6DJlYpd5SzRd37kt01c1FZDc9FY-1631298683-0-gqNtZGzNAuWjcnBszQsl)
+[Course Link](https://www.udemy.com/course/react-2020-complete-guide/?__cf_chl_captcha_tk__=pmd_Rl3wruHkwmgDkarc6DJlYpd5SzRd37kt01c1FZDc9FY-1631298683-0-gqNtZGzNAuWjcnBszQsl)
